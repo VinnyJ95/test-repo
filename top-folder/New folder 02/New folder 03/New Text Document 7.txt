@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Some more new text to git things going. 
+=======
+Some new text
+>>>>>>> parent of e65ff7b... Made new changes in this file to cause a conflict on the master
